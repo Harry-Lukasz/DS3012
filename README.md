@@ -1,2 +1,2 @@
-# DS3012_Java_Tutorials
+# DS3012
 Repo to store code for JAVA tutorials
