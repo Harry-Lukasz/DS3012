@@ -1,0 +1,2 @@
+javac KnockKnockServer.java KnockKnockProtocol.java
+java KnockKnockServer 4444

@@ -1,0 +1,2 @@
+javac KKMultiServer.java KKMultiServerThread.java KnockKnockProtocol.java
+java KKMultiServer 4444
